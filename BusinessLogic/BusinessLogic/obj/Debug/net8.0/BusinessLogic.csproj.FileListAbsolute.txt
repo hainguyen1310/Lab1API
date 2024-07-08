@@ -1,0 +1,14 @@
+D:\Csap\BusinessLogic\BusinessLogic\bin\Debug\net8.0\BusinessLogic.deps.json
+D:\Csap\BusinessLogic\BusinessLogic\bin\Debug\net8.0\BusinessLogic.runtimeconfig.json
+D:\Csap\BusinessLogic\BusinessLogic\bin\Debug\net8.0\BusinessLogic.dll
+D:\Csap\BusinessLogic\BusinessLogic\bin\Debug\net8.0\BusinessLogic.pdb
+D:\Csap\BusinessLogic\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\Csap\BusinessLogic\BusinessLogic\obj\Debug\net8.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csap\BusinessLogic\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\Csap\BusinessLogic\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfo.cs
+D:\Csap\BusinessLogic\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Csap\BusinessLogic\BusinessLogic\obj\Debug\net8.0\BusinessLogic.dll
+D:\Csap\BusinessLogic\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
+D:\Csap\BusinessLogic\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
+D:\Csap\BusinessLogic\BusinessLogic\obj\Debug\net8.0\BusinessLogic.genruntimeconfig.cache
+D:\Csap\BusinessLogic\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll

@@ -1,0 +1,11 @@
+D:\Csap\BusinessLogic\ShopDTO\bin\Debug\net8.0\ShopDTO.deps.json
+D:\Csap\BusinessLogic\ShopDTO\bin\Debug\net8.0\ShopDTO.dll
+D:\Csap\BusinessLogic\ShopDTO\bin\Debug\net8.0\ShopDTO.pdb
+D:\Csap\BusinessLogic\ShopDTO\obj\Debug\net8.0\ShopDTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csap\BusinessLogic\ShopDTO\obj\Debug\net8.0\ShopDTO.AssemblyInfoInputs.cache
+D:\Csap\BusinessLogic\ShopDTO\obj\Debug\net8.0\ShopDTO.AssemblyInfo.cs
+D:\Csap\BusinessLogic\ShopDTO\obj\Debug\net8.0\ShopDTO.csproj.CoreCompileInputs.cache
+D:\Csap\BusinessLogic\ShopDTO\obj\Debug\net8.0\ShopDTO.dll
+D:\Csap\BusinessLogic\ShopDTO\obj\Debug\net8.0\refint\ShopDTO.dll
+D:\Csap\BusinessLogic\ShopDTO\obj\Debug\net8.0\ShopDTO.pdb
+D:\Csap\BusinessLogic\ShopDTO\obj\Debug\net8.0\ref\ShopDTO.dll

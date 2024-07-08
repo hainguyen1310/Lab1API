@@ -1,0 +1,17 @@
+D:\Csap\BusinessLogic\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\Csap\BusinessLogic\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\Csap\BusinessLogic\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\Csap\BusinessLogic\Repositories\bin\Debug\net8.0\BusinessLogic.dll
+D:\Csap\BusinessLogic\Repositories\bin\Debug\net8.0\DataAccess.dll
+D:\Csap\BusinessLogic\Repositories\bin\Debug\net8.0\BusinessLogic.pdb
+D:\Csap\BusinessLogic\Repositories\bin\Debug\net8.0\DataAccess.pdb
+D:\Csap\BusinessLogic\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\Csap\BusinessLogic\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csap\BusinessLogic\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\Csap\BusinessLogic\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\Csap\BusinessLogic\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\Csap\BusinessLogic\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+D:\Csap\BusinessLogic\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\Csap\BusinessLogic\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\Csap\BusinessLogic\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\Csap\BusinessLogic\Repositories\obj\Debug\net8.0\ref\Repositories.dll

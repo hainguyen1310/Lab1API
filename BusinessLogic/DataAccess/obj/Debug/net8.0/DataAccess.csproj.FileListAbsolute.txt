@@ -1,0 +1,15 @@
+D:\Csap\BusinessLogic\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\Csap\BusinessLogic\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\Csap\BusinessLogic\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\Csap\BusinessLogic\DataAccess\bin\Debug\net8.0\BusinessLogic.dll
+D:\Csap\BusinessLogic\DataAccess\bin\Debug\net8.0\BusinessLogic.pdb
+D:\Csap\BusinessLogic\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+D:\Csap\BusinessLogic\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csap\BusinessLogic\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\Csap\BusinessLogic\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\Csap\BusinessLogic\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Csap\BusinessLogic\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+D:\Csap\BusinessLogic\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\Csap\BusinessLogic\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\Csap\BusinessLogic\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\Csap\BusinessLogic\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

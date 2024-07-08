@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Csap\\BusinessLogic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AADFB16A-6F14-472D-ABA2-C1A04A0BB0DE}|ProductWebApplication\\ProductWebApplication.csproj|d:\\csap\\businesslogic\\productwebapplication\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AADFB16A-6F14-472D-ABA2-C1A04A0BB0DE}|ProductWebApplication\\ProductWebApplication.csproj|solutionrelative:productwebapplication\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA44697-9277-4E77-87C9-7D40EB4B2F26}|DataAccess\\DataAccess.csproj|d:\\csap\\businesslogic\\dataaccess\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA44697-9277-4E77-87C9-7D40EB4B2F26}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA44697-9277-4E77-87C9-7D40EB4B2F26}|DataAccess\\DataAccess.csproj|d:\\csap\\businesslogic\\dataaccess\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA44697-9277-4E77-87C9-7D40EB4B2F26}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C414C34B-C35B-431F-A34F-8173ABD92A4E}|BusinessLogic\\BusinessLogic.csproj|d:\\csap\\businesslogic\\businesslogic\\model\\webproductapp2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C414C34B-C35B-431F-A34F-8173ABD92A4E}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\model\\webproductapp2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0920AF92-917B-4138-AAF2-F4474BF0CE9D}|Repositories\\Repositories.csproj|d:\\csap\\businesslogic\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0920AF92-917B-4138-AAF2-F4474BF0CE9D}|Repositories\\Repositories.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 199,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Csap\\BusinessLogic\\ProductWebApplication\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProductWebApplication\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\Csap\\BusinessLogic\\ProductWebApplication\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "ProductWebApplication\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T12:59:52.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "D:\\Csap\\BusinessLogic\\DataAccess\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\ProductDAO.cs",
+              "ToolTip": "D:\\Csap\\BusinessLogic\\DataAccess\\ProductDAO.cs",
+              "RelativeToolTip": "DataAccess\\ProductDAO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:40:30.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "D:\\Csap\\BusinessLogic\\DataAccess\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\CategoryDAO.cs",
+              "ToolTip": "D:\\Csap\\BusinessLogic\\DataAccess\\CategoryDAO.cs",
+              "RelativeToolTip": "DataAccess\\CategoryDAO.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:40:19.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebProductApp2Context.cs",
+              "DocumentMoniker": "D:\\Csap\\BusinessLogic\\BusinessLogic\\Model\\WebProductApp2Context.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Model\\WebProductApp2Context.cs",
+              "ToolTip": "D:\\Csap\\BusinessLogic\\BusinessLogic\\Model\\WebProductApp2Context.cs",
+              "RelativeToolTip": "BusinessLogic\\Model\\WebProductApp2Context.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAywAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:39:59.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Csap\\BusinessLogic\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\Csap\\BusinessLogic\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:28:08.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 43,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
